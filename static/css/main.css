@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Poppins:wght@200;400&family=Roboto+Slab:wght@300&display=swap');
+
+
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.asset{
+    color: rgb(37, 41, 88);
+}
+
+.manager{
+    color: rgb(103, 128, 159);
+}
+
+
+
+.edit-icon{
+    display: inline;
+    margin-left: 1.2rem;
+}
+
+.tab-header{
+    display: flex;
+    justify-content: space-between;
+}
